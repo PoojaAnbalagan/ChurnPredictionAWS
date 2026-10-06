@@ -1,0 +1,82 @@
+{
+  "total_rows": 51047,
+  "total_columns": 58,
+  "churn_counts": {
+    "No": 36336,
+    "Yes": 14711
+  },
+  "churn_rate": 0.2881853977706819,
+  "missing_columns_count": 14,
+  "missing_features": {
+    "AgeHH2": {
+      "count": 909,
+      "pct": 1.7807118929613885
+    },
+    "AgeHH1": {
+      "count": 909,
+      "pct": 1.7807118929613885
+    },
+    "PercChangeRevenues": {
+      "count": 367,
+      "pct": 0.7189452857170843
+    },
+    "PercChangeMinutes": {
+      "count": 367,
+      "pct": 0.7189452857170843
+    },
+    "MonthlyRevenue": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "MonthlyMinutes": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "RoamingCalls": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "OverageMinutes": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "DirectorAssistedCalls": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "TotalRecurringCharge": {
+      "count": 156,
+      "pct": 0.30560072090426466
+    },
+    "ServiceArea": {
+      "count": 24,
+      "pct": 0.04701549552373303
+    },
+    "Handsets": {
+      "count": 1,
+      "pct": 0.0019589789801555428
+    },
+    "CurrentEquipmentDays": {
+      "count": 1,
+      "pct": 0.0019589789801555428
+    },
+    "HandsetModels": {
+      "count": 1,
+      "pct": 0.0019589789801555428
+    }
+  },
+  "top_positive_correlations": {
+    "MonthsInService": 0.018702629311078925,
+    "UniqueSubs": 0.03452223565240564,
+    "RetentionOffersAccepted": 0.034953350514437063,
+    "RetentionCalls": 0.06530063726408124,
+    "CurrentEquipmentDays": 0.10368781273222823
+  },
+  "top_negative_correlations": {
+    "TotalRecurringCharge": -0.06129634005884522,
+    "MonthlyMinutes": -0.05016619877177626,
+    "OffPeakCallsInOut": -0.04078378017125803,
+    "HandsetModels": -0.04004750692203271,
+    "PeakCallsInOut": -0.04002890706579232
+  }
+}

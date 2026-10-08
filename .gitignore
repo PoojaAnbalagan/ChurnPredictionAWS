@@ -34,8 +34,7 @@ ENV/
 .vscode/
 .idea/
 
-# Large generated datasets (Outputs stored in AWS S3)
-datasets/processed/
+
 
 # Local utility scripts & logs
 powershell.cmd

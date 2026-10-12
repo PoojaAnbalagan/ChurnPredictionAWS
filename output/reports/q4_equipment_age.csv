@@ -1,0 +1,9 @@
+EquipmentAgeBracket,HandsetRefurbished,CustomerCount,AvgChurnRiskPct,PredictedChurners
+1. Under 6 Months,0,2896,36.77,486
+1. Under 6 Months,1,1087,45.62,413
+2. 6 - 12 Months,0,6414,42.63,2254
+2. 6 - 12 Months,1,896,51.42,475
+3. 1 - 2 Years,0,5948,52.16,3322
+3. 1 - 2 Years,1,744,54.92,491
+4. Over 2 Years,0,1914,56.04,1368
+4. Over 2 Years,1,101,57.51,75

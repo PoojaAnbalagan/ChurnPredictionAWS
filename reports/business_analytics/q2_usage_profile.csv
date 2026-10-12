@@ -1,0 +1,4 @@
+RiskSegment,CustomerCount,AvgMonthlyRevenue,AvgMonthlyMinutes,AvgRecurringCharge,AvgOverageMinutes,AvgRoamingCalls,AvgEquipmentAgeDays
+Low Risk,4692,63.36,655.9,54.3,35.2,1.03,202.0
+Medium Risk,12926,57.64,503.2,45.62,39.9,1.12,428.0
+High Risk,2382,56.66,389.1,39.63,51.1,1.81,466.0

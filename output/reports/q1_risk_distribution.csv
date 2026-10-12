@@ -1,0 +1,4 @@
+RiskSegment,CustomerCount,PercentageOfTotal,AvgChurnProbabilityPct,TotalMonthlyRevenueAtRisk
+High Risk,2382,11.91,71.9,134975.03
+Medium Risk,12926,64.63,50.03,745089.22
+Low Risk,4692,23.46,25.97,297303.61

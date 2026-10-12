@@ -24,18 +24,20 @@ wheels/
 # Jupyter
 .ipynb_checkpoints
 
-# Environment variables
+# Environment variables & secrets
 .env
 .venv
 venv/
 ENV/
+*accessKeys*.csv
+*passkeys*
+credentials.csv
 
 # IDEs
 .vscode/
 .idea/
 
-
-
 # Local utility scripts & logs
 powershell.cmd
+powershell.bat
 *.log
